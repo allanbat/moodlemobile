@@ -2,17 +2,17 @@
 <widget xmlns     = "http://www.w3.org/ns/widgets"
         xmlns:gap = "http://phonegap.com/ns/1.0"
         xmlns:android = "http://schemas.android.com/apk/res/android"
-        id        = "com.moodle.moodlemobile"
+        id        = "net.moodletipp.TIPP"
         versionCode = "387"
         version   = "1.13">
-    <name>Moodle Mobile</name>
+    <name>TIPP Mobile</name>
 
     <description>
-        Moodle Mobile official app
+        TIPP Mobile app
     </description>
 
-    <author href="http://moodle.com" email="juan@moodle.com">
-        Juan Leyva
+    <author href="http://saturn-internet.com" email="allan@saturninternet.co.za">
+        Allan Bateman
     </author>
 
     <gap:config-file platform="ios" parent="CFBundleShortVersionString">
